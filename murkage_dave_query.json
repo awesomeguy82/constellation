@@ -1,0 +1,661 @@
+{
+    "0": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4fTqtoSkTj4lcLHMANIs4C"
+        },
+        "followers": {
+            "href": null,
+            "total": 11618
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4fTqtoSkTj4lcLHMANIs4C",
+        "id": "4fTqtoSkTj4lcLHMANIs4C",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb3f264a95e332e7fce7af39e8",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051743f264a95e332e7fce7af39e8",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1783f264a95e332e7fce7af39e8",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Murkage Dave",
+        "popularity": 34,
+        "type": "artist",
+        "uri": "spotify:artist:4fTqtoSkTj4lcLHMANIs4C"
+    },
+    "1": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0mP6wa81SOzUJIaAnLg7a7"
+        },
+        "followers": {
+            "href": null,
+            "total": 598
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0mP6wa81SOzUJIaAnLg7a7",
+        "id": "0mP6wa81SOzUJIaAnLg7a7",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb0dfb7731cf32065928507206",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051740dfb7731cf32065928507206",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1780dfb7731cf32065928507206",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave $tokes",
+        "popularity": 43,
+        "type": "artist",
+        "uri": "spotify:artist:0mP6wa81SOzUJIaAnLg7a7"
+    },
+    "2": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6b58ZzXRHPakxMhPx7xHAx"
+        },
+        "followers": {
+            "href": null,
+            "total": 42709
+        },
+        "genres": [
+            "folk punk"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6b58ZzXRHPakxMhPx7xHAx",
+        "id": "6b58ZzXRHPakxMhPx7xHAx",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb29a6438889f4794b0fa84179",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517429a6438889f4794b0fa84179",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17829a6438889f4794b0fa84179",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave Hause",
+        "popularity": 40,
+        "type": "artist",
+        "uri": "spotify:artist:6b58ZzXRHPakxMhPx7xHAx"
+    },
+    "3": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xYAJbccuTDFnsuA4FzCSr"
+        },
+        "followers": {
+            "href": null,
+            "total": 2166
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4xYAJbccuTDFnsuA4FzCSr",
+        "id": "4xYAJbccuTDFnsuA4FzCSr",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb9589753a718d6967d1298b06",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051749589753a718d6967d1298b06",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1789589753a718d6967d1298b06",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave Metzger",
+        "popularity": 41,
+        "type": "artist",
+        "uri": "spotify:artist:4xYAJbccuTDFnsuA4FzCSr"
+    },
+    "4": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6GndH44hnFqySPvGrUQowx"
+        },
+        "followers": {
+            "href": null,
+            "total": 4863
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6GndH44hnFqySPvGrUQowx",
+        "id": "6GndH44hnFqySPvGrUQowx",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebc38ef011e6dd7319fa8cbdbd",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174c38ef011e6dd7319fa8cbdbd",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178c38ef011e6dd7319fa8cbdbd",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Murkemz",
+        "popularity": 18,
+        "type": "artist",
+        "uri": "spotify:artist:6GndH44hnFqySPvGrUQowx"
+    },
+    "5": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W"
+        },
+        "followers": {
+            "href": null,
+            "total": 2839
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3ykuLH14n05EsgIRDZER5W",
+        "id": "3ykuLH14n05EsgIRDZER5W",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb27901d881c985146380ec6e8",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517427901d881c985146380ec6e8",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17827901d881c985146380ec6e8",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Murge",
+        "popularity": 30,
+        "type": "artist",
+        "uri": "spotify:artist:3ykuLH14n05EsgIRDZER5W"
+    },
+    "6": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw"
+        },
+        "followers": {
+            "href": null,
+            "total": 23092
+        },
+        "genres": [
+            "witch house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5anIaPEacO0S5sVfxg6cVw",
+        "id": "5anIaPEacO0S5sVfxg6cVw",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb5dcadf3615c961e3adc60dcb",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051745dcadf3615c961e3adc60dcb",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1785dcadf3615c961e3adc60dcb",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Murkish",
+        "popularity": 37,
+        "type": "artist",
+        "uri": "spotify:artist:5anIaPEacO0S5sVfxg6cVw"
+    },
+    "7": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1BOXG1ce0mcIw7XYhb0lZB"
+        },
+        "followers": {
+            "href": null,
+            "total": 1630
+        },
+        "genres": [
+            "anime"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1BOXG1ce0mcIw7XYhb0lZB",
+        "id": "1BOXG1ce0mcIw7XYhb0lZB",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb23bcfae75558b07765487a4c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517423bcfae75558b07765487a4c",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17823bcfae75558b07765487a4c",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave Does Music",
+        "popularity": 23,
+        "type": "artist",
+        "uri": "spotify:artist:1BOXG1ce0mcIw7XYhb0lZB"
+    },
+    "8": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3mDN0fZ5avC4Li91LwwKHD"
+        },
+        "followers": {
+            "href": null,
+            "total": 15424
+        },
+        "genres": [
+            "classic country",
+            "traditional country"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3mDN0fZ5avC4Li91LwwKHD",
+        "id": "3mDN0fZ5avC4Li91LwwKHD",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2731050016121cbb610a05c6c21",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e021050016121cbb610a05c6c21",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048511050016121cbb610a05c6c21",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Dave and Sugar",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:3mDN0fZ5avC4Li91LwwKHD"
+    },
+    "9": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1YAw2ZsyCTYNZwUxiqADfp"
+        },
+        "followers": {
+            "href": null,
+            "total": 26
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1YAw2ZsyCTYNZwUxiqADfp",
+        "id": "1YAw2ZsyCTYNZwUxiqADfp",
+        "images": [],
+        "name": "Dave Herman",
+        "popularity": 21,
+        "type": "artist",
+        "uri": "spotify:artist:1YAw2ZsyCTYNZwUxiqADfp"
+    },
+    "10": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o"
+        },
+        "followers": {
+            "href": null,
+            "total": 691
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5ppKWaWRnYsBET84EoCQ2o",
+        "id": "5ppKWaWRnYsBET84EoCQ2o",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebb99738183d2f8bc8d92337e0",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174b99738183d2f8bc8d92337e0",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178b99738183d2f8bc8d92337e0",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave Shanaé",
+        "popularity": 23,
+        "type": "artist",
+        "uri": "spotify:artist:5ppKWaWRnYsBET84EoCQ2o"
+    },
+    "11": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3VMaouRUsjhGsTp3bdQRuU"
+        },
+        "followers": {
+            "href": null,
+            "total": 1251
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3VMaouRUsjhGsTp3bdQRuU",
+        "id": "3VMaouRUsjhGsTp3bdQRuU",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273f7dd069d43bcca4f6582a8e9",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02f7dd069d43bcca4f6582a8e9",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851f7dd069d43bcca4f6582a8e9",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Dave Vives",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:3VMaouRUsjhGsTp3bdQRuU"
+    },
+    "12": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7593RbtGA4bHQOLJeKdHaA"
+        },
+        "followers": {
+            "href": null,
+            "total": 1248
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7593RbtGA4bHQOLJeKdHaA",
+        "id": "7593RbtGA4bHQOLJeKdHaA",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebb56581fff773b4a94bdd8b30",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174b56581fff773b4a94bdd8b30",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178b56581fff773b4a94bdd8b30",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave n' Bambi",
+        "popularity": 23,
+        "type": "artist",
+        "uri": "spotify:artist:7593RbtGA4bHQOLJeKdHaA"
+    },
+    "13": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/15Q8vhd07GVcqI7xGAaMk4"
+        },
+        "followers": {
+            "href": null,
+            "total": 6201
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/15Q8vhd07GVcqI7xGAaMk4",
+        "id": "15Q8vhd07GVcqI7xGAaMk4",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb6454b579118a26fa51ca0707",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051746454b579118a26fa51ca0707",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1786454b579118a26fa51ca0707",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave from the Grave",
+        "popularity": 18,
+        "type": "artist",
+        "uri": "spotify:artist:15Q8vhd07GVcqI7xGAaMk4"
+    },
+    "14": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0aE7JSiABAsoQGQAGuqUNN"
+        },
+        "followers": {
+            "href": null,
+            "total": 490
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0aE7JSiABAsoQGQAGuqUNN",
+        "id": "0aE7JSiABAsoQGQAGuqUNN",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb1cd5e451e10b385d573ba92e",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051741cd5e451e10b385d573ba92e",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1781cd5e451e10b385d573ba92e",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "MURAKASHI",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:0aE7JSiABAsoQGQAGuqUNN"
+    },
+    "15": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6de3gCt7GOmcd8fylzCTgc"
+        },
+        "followers": {
+            "href": null,
+            "total": 4194
+        },
+        "genres": [
+            "bass music"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6de3gCt7GOmcd8fylzCTgc",
+        "id": "6de3gCt7GOmcd8fylzCTgc",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273e0fa013916c7fbe188d172af",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02e0fa013916c7fbe188d172af",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851e0fa013916c7fbe188d172af",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Murkury",
+        "popularity": 21,
+        "type": "artist",
+        "uri": "spotify:artist:6de3gCt7GOmcd8fylzCTgc"
+    },
+    "16": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5L5ngadTdiHbjxTNSVHBxz"
+        },
+        "followers": {
+            "href": null,
+            "total": 661
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5L5ngadTdiHbjxTNSVHBxz",
+        "id": "5L5ngadTdiHbjxTNSVHBxz",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27321650a28ddf0f59253dfed40",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0221650a28ddf0f59253dfed40",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485121650a28ddf0f59253dfed40",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Mgm Dave",
+        "popularity": 20,
+        "type": "artist",
+        "uri": "spotify:artist:5L5ngadTdiHbjxTNSVHBxz"
+    },
+    "17": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE"
+        },
+        "followers": {
+            "href": null,
+            "total": 383
+        },
+        "genres": [
+            "lo-fi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/17R10v2unr1DGfF0cDg7OE",
+        "id": "17R10v2unr1DGfF0cDg7OE",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb30427175e3db7e2ea181fb02",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517430427175e3db7e2ea181fb02",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17830427175e3db7e2ea181fb02",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "dave.",
+        "popularity": 21,
+        "type": "artist",
+        "uri": "spotify:artist:17R10v2unr1DGfF0cDg7OE"
+    },
+    "18": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf"
+        },
+        "followers": {
+            "href": null,
+            "total": 2559
+        },
+        "genres": [
+            "hip house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5C7HgyosSspofglYFe2UZf",
+        "id": "5C7HgyosSspofglYFe2UZf",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb1f51273f8517ee288594c516",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051741f51273f8517ee288594c516",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1781f51273f8517ee288594c516",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dave + Sam",
+        "popularity": 28,
+        "type": "artist",
+        "uri": "spotify:artist:5C7HgyosSspofglYFe2UZf"
+    },
+    "19": {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1siVccYZR8N2O4mEZflCpC"
+        },
+        "followers": {
+            "href": null,
+            "total": 6820
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1siVccYZR8N2O4mEZflCpC",
+        "id": "1siVccYZR8N2O4mEZflCpC",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ab7404652f4cd5ad1007de34",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ab7404652f4cd5ad1007de34",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851ab7404652f4cd5ad1007de34",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Dave Brockie Experience",
+        "popularity": 18,
+        "type": "artist",
+        "uri": "spotify:artist:1siVccYZR8N2O4mEZflCpC"
+    }
+}
